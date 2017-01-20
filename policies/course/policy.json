@@ -1,8 +1,6 @@
 {
     "course/course": {
-        "advanced_modules": [
-            "azure_media_services"
-        ], 
+        "advanced_modules": [], 
         "catalog_visibility": "none", 
         "cert_html_view_enabled": true, 
         "certificates": {
@@ -62,12 +60,12 @@
         "start": "2016-12-16T00:00:00Z", 
         "tabs": [
             {
-                "name": "Home", 
-                "type": "course_info"
+                "name": "Courseware", 
+                "type": "courseware"
             }, 
             {
-                "name": "Course", 
-                "type": "courseware"
+                "name": "Course Info", 
+                "type": "course_info"
             }, 
             {
                 "name": "Textbooks", 
@@ -89,12 +87,6 @@
                 "name": "Textbooks", 
                 "type": "pdf_textbooks"
             }
-        ], 
-        "xml_attributes": {
-            "filename": [
-                "course/course.xml", 
-                "course/course.xml"
-            ]
-        }
+        ]
     }
 }
