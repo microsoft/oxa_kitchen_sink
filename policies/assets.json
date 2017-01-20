@@ -7,12 +7,12 @@
             "name": "Intro_ML_Self_Evaluation.pdf", 
             "org": "Microsoft", 
             "revision": null, 
-            "run": "2016_12", 
+            "run": "course", 
             "tag": "c4x"
         }, 
         "displayname": "Intro_ML_Self_Evaluation.pdf", 
-        "filename": "asset-v1:Microsoft+KS101+2016_12+type@asset+block@Intro_ML_Self_Evaluation.pdf", 
-        "import_path": null, 
+        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@Intro_ML_Self_Evaluation.pdf", 
+        "import_path": "Intro_ML_Self_Evaluation.pdf", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -24,12 +24,12 @@
             "name": "pdf-sample.pdf", 
             "org": "Microsoft", 
             "revision": null, 
-            "run": "2016_12", 
+            "run": "course", 
             "tag": "c4x"
         }, 
         "displayname": "pdf-sample.pdf", 
-        "filename": "asset-v1:Microsoft+KS101+2016_12+type@asset+block@pdf-sample.pdf", 
-        "import_path": null, 
+        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@pdf-sample.pdf", 
+        "import_path": "pdf-sample.pdf", 
         "locked": true, 
         "thumbnail_location": null
     }, 
@@ -41,12 +41,12 @@
             "name": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
             "org": "Microsoft", 
             "revision": null, 
-            "run": "2016_12", 
+            "run": "course", 
             "tag": "c4x"
         }, 
         "displayname": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
-        "filename": "asset-v1:Microsoft+KS101+2016_12+type@asset+block@windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
+        "import_path": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
         "locked": true, 
         "thumbnail_location": [
             "c4x", 

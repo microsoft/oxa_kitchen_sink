@@ -1,33 +1,7 @@
 {
     "course/course": {
         "advanced_modules": [
-            "annotatable", 
-            "backcompat", 
-            "capa", 
-            "conditional", 
-            "course", 
-            "discussion", 
-            "editing", 
-            "error", 
-            "gst", 
-            "hidden", 
-            "html", 
-            "imageannotation", 
-            "mako", 
-            "poll", 
-            "randomize", 
-            "raw", 
-            "seq", 
-            "split_test", 
-            "template", 
-            "textannotation", 
-            "videoannotation", 
-            "word_cloud", 
-            "wrapper", 
-            "xml", 
-            "x", 
-            "drag-and-drop-v2", 
-            "done"
+            "azure_media_services"
         ], 
         "catalog_visibility": "none", 
         "cert_html_view_enabled": true, 
@@ -88,12 +62,12 @@
         "start": "2016-12-16T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Textbooks", 
@@ -115,6 +89,12 @@
                 "name": "Textbooks", 
                 "type": "pdf_textbooks"
             }
-        ]
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
     }
 }
