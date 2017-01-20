@@ -60,12 +60,12 @@
         "start": "2016-12-16T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
+                "name": "Home", 
+                "type": "course_info"
             }, 
             {
-                "name": "Course Info", 
-                "type": "course_info"
+                "name": "Course", 
+                "type": "courseware"
             }, 
             {
                 "name": "Textbooks", 
@@ -87,6 +87,12 @@
                 "name": "Textbooks", 
                 "type": "pdf_textbooks"
             }
-        ]
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
     }
 }
