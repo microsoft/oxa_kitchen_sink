@@ -60,13 +60,13 @@
         "start": "2016-12-16T00:00:00Z", 
         "tabs": [
             {
-                "name": "Home", 
-                "type": "course_info"
-            }, 
-            {
                 "name": "Course", 
                 "type": "courseware"
             }, 
+            {
+                "name": "Home", 
+                "type": "course_info"
+            },             
             {
                 "name": "Textbooks", 
                 "type": "textbooks"
