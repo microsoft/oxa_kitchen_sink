@@ -1,6 +1,14 @@
 {
     "course/course": {
-        "advanced_modules": [], 
+        "advanced_modules": [
+		"lti_consumer",
+		"drag-and-drop-v2",
+		"done",
+		"pdf",
+		"officemix",
+		"open assessment",
+		"azure_media_services"
+	], 
         "catalog_visibility": "none", 
         "cert_html_view_enabled": true, 
         "certificates": {
