@@ -42,8 +42,8 @@
             }
         }, 
         "display_name": "Kitchen sink", 
-        "end": "2027-02-24T00:30:00Z", 
-        "enrollment_end": "2027-02-11T00:30:00Z", 
+        "end": "2017-02-24T00:30:00Z", 
+        "enrollment_end": "2017-02-11T00:30:00Z", 
         "enrollment_start": "2016-12-16T00:00:00Z", 
         "graceperiod": "", 
         "language": "en", 
