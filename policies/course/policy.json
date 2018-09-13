@@ -1,33 +1,30 @@
 {
     "course/course": {
-        "advanced_modules": [
-		"lti_consumer",
-		"drag-and-drop-v2",
-		"done",
-		"pdf",
-		"officemix",
-		"open assessment",
-		"azure_media_services"
-	], 
-        "catalog_visibility": "both", 
+        "catalog_visibility": "none", 
         "cert_html_view_enabled": true, 
         "certificates": {
             "certificates": [
                 {
-                    "course_title": "Kitchen sink ", 
                     "description": "Description of the certificate", 
-                    "editing": false, 
-                    "id": 861723001, 
-                    "is_active": false, 
+                    "id": 1088271861, 
+                    "is_active": true, 
                     "name": "Name of the certificate", 
                     "signatories": [
                         {
-                            "certificate": null, 
-                            "id": 2010872476, 
-                            "name": "House owner", 
-                            "organization": "LEX", 
+                            "certificate": 1088271861, 
+                            "id": 820035799, 
+                            "name": "", 
+                            "organization": "", 
                             "signature_image_path": "", 
-                            "title": "Owner of the House"
+                            "title": ""
+                        }, 
+                        {
+                            "certificate": 1088271861, 
+                            "id": 246039159, 
+                            "name": "Ross", 
+                            "organization": "", 
+                            "signature_image_path": "", 
+                            "title": ""
                         }
                     ], 
                     "version": 1
@@ -35,65 +32,55 @@
             ]
         }, 
         "certificates_display_behavior": "early_no_info", 
-        "course_image": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
+        "course_image": "Capture.JPG", 
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         }, 
-        "display_name": "Kitchen sink", 
-        "end": "2027-02-24T00:30:00Z", 
-        "enrollment_end": "2027-02-11T00:30:00Z", 
-        "enrollment_start": "2016-12-16T00:00:00Z", 
+        "display_name": "Test_Cert_Functionality", 
+        "end": "2019-04-13T00:00:00Z", 
+        "enrollment_end": "2019-04-13T00:00:00Z", 
+        "enrollment_start": "2017-03-17T00:00:00Z", 
         "graceperiod": "", 
+        "instructor_info": {
+            "instructors": []
+        }, 
         "language": "en", 
+        "learning_info": [], 
         "minimum_grade_credit": 0.8, 
-        "pdf_textbooks": [
-            {
-                "chapters": [
-                    {
-                        "title": "one page", 
-                        "url": "/static/pdf-sample.pdf"
-                    }, 
-                    {
-                        "title": "second page", 
-                        "url": "/static/Intro_ML_Self_Evaluation.pdf"
-                    }
-                ], 
-                "id": "7Testing_pdf", 
-                "tab_title": "Testing pdf"
-            }
-        ], 
         "self_paced": true, 
-        "start": "2016-12-16T00:00:00Z", 
+        "start": "2017-03-17T00:00:00Z", 
         "tabs": [
             {
+                "course_staff_only": false, 
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "course_staff_only": false, 
                 "name": "Course", 
                 "type": "courseware"
             }, 
             {
-                "name": "Home", 
-                "type": "course_info"
-            },             
-            {
+                "course_staff_only": false, 
                 "name": "Textbooks", 
                 "type": "textbooks"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Discussion", 
                 "type": "discussion"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Wiki", 
                 "type": "wiki"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Progress", 
                 "type": "progress"
-            }, 
-            {
-                "name": "Textbooks", 
-                "type": "pdf_textbooks"
             }
         ], 
         "xml_attributes": {

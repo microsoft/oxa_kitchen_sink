@@ -1,76 +1,25 @@
 {
-    "Intro_ML_Self_Evaluation.pdf": {
-        "contentType": "application/pdf", 
-        "content_son": {
-            "category": "asset", 
-            "course": "KS101", 
-            "name": "Intro_ML_Self_Evaluation.pdf", 
-            "org": "Microsoft", 
-            "revision": null, 
-            "run": "course", 
-            "tag": "c4x"
-        }, 
-        "displayname": "Intro_ML_Self_Evaluation.pdf", 
-        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@Intro_ML_Self_Evaluation.pdf", 
-        "import_path": "Intro_ML_Self_Evaluation.pdf", 
-        "locked": false, 
-        "thumbnail_location": null
-    }, 
-    "Satya_Nadella__His_first_interview_as_CEO_of_Microsoft.mp4.vtt": {
-        "contentType": "text/vtt", 
-        "content_son": {
-            "category": "asset", 
-            "course": "KS101", 
-            "name": "Satya_Nadella__His_first_interview_as_CEO_of_Microsoft.mp4.vtt", 
-            "org": "Microsoft", 
-            "revision": null, 
-            "run": "course", 
-            "tag": "c4x"
-        }, 
-        "displayname": "Satya Nadella_ His first interview as CEO of Microsoft.mp4.vtt", 
-        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@Satya_Nadella__His_first_interview_as_CEO_of_Microsoft.mp4.vtt", 
-        "import_path": null, 
-        "locked": false, 
-        "thumbnail_location": null
-    }, 
-    "pdf-sample.pdf": {
-        "contentType": "application/pdf", 
-        "content_son": {
-            "category": "asset", 
-            "course": "KS101", 
-            "name": "pdf-sample.pdf", 
-            "org": "Microsoft", 
-            "revision": null, 
-            "run": "course", 
-            "tag": "c4x"
-        }, 
-        "displayname": "pdf-sample.pdf", 
-        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@pdf-sample.pdf", 
-        "import_path": "pdf-sample.pdf", 
-        "locked": false, 
-        "thumbnail_location": null
-    }, 
-    "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg": {
+    "Capture.JPG": {
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "KS101", 
-            "name": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
+            "course": "MS101", 
+            "name": "Capture.JPG", 
             "org": "Microsoft", 
             "revision": null, 
-            "run": "course", 
+            "run": "2018_T1", 
             "tag": "c4x"
         }, 
-        "displayname": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
-        "filename": "asset-v1:Microsoft+KS101+course+type@asset+block@windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
-        "import_path": "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
+        "displayname": "Capture.JPG", 
+        "filename": "asset-v1:Microsoft+MS101+2018_T1+type@asset+block@Capture.JPG", 
+        "import_path": "Capture.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "Microsoft", 
-            "KS101", 
+            "MS101", 
             "thumbnail", 
-            "windows_seven_background_orange_colored_small_logo_hd_wall_resize.jpg", 
+            "Capture-JPG.jpg", 
             null
         ]
     }
